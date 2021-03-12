@@ -1,0 +1,191 @@
+.bg-red {
+	background-color: red;
+}
+
+.bg-blue {
+	background-color: blue;
+}
+
+.bg-green {
+	background-color: green;
+}
+
+.width-1500 {
+	width: 1500px;
+}
+
+.height-100 {
+	height: 100px;
+}
+
+.mx-auto {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.width-200 {
+	width: 200px
+}
+
+.d-flex {
+	display: flex
+}
+
+.border-default {
+	border-style: solid
+}
+
+.width-800 {
+	width: 800px
+}
+
+.width-500 {
+	width: 500px
+}
+
+.height-3000 {
+	height: 3000px
+}
+
+.height-500 {
+	height: 500px
+}
+.height-400px {
+	height: 400px
+}
+
+.text-white {
+	color: white
+}
+
+.width-750 {
+	width: 750px
+}
+
+.ml-25 {
+	margin-left: 25px;
+}
+
+.width-400 {
+	width: 400px
+}
+
+.width-1250 {
+	width: 1250px
+}
+
+.height-250 {
+	height: 250px
+}
+
+.bg-yellow {
+	background-color: yellow
+}
+
+
+.bg-image-example {
+	background-image: url(https://i.kym-cdn.com/photos/images/facebook/001/169/088/c15.png);
+	background-size: 100% 100%;
+}
+.header-fixed {
+	position: fixed;
+	left: 200px;
+	top: 0;
+}
+.t-c {
+ text-align: center;
+ padding-top: 30px;
+ padding-bottom: 30px
+}
+.m-l-200 {
+	margin-top: 10px
+}
+.logo {
+	width: 200px;
+	height: 100px
+}
+.img {
+	height: 100px;
+	width: 500px
+}
+.width-190 {
+	width: 190px
+}
+.height-50 {
+	height: 50px
+}
+.f-s {
+	font-size: 40px
+}
+.br-10 {
+	border-radius: 10px;
+}
+.m-t {
+	margin-top: 25px
+}
+.text:hover {
+	font-size: 20px;
+}
+.t-c {
+	text-align: center;
+}
+.p-t {
+	padding-top: 250px
+}
+.img-1 {
+	width: 750px;
+	height: 500px
+}
+.img-2 {
+	width: 300px;
+	height: 350px
+}
+.text-green {
+	color: blue
+}
+.f-s_15 {
+	font-size: 15px;
+}
+.m-t_-20 {
+	margin-top: -20px
+}
+.m-t_-60 {
+	margin-top: -60px
+}
+@font-face {
+	src: url(JOJO.TTF);
+	font-family: JOJO
+}
+.font-JOJO {
+	font-family: JOJO
+}
+.ml-550 {
+	margin-left: 550px
+}
+.f-s_30 {
+	font-size: 30px
+}
+.ml-100 {
+	margin-left: 100px
+}
+.bg-white {
+	background-color: white
+}
+.tran {
+	transition: 1s
+}
+.bg-purple {
+	background-color: #752972
+}
+.bg-wb {
+	background-color: #38C0B0
+}
+.bg-bg {
+	background-color: #117539
+}
+.ml-600 {
+	margin-left: 600px
+}
+.text-wb {
+	color: #38C0B0
+}
